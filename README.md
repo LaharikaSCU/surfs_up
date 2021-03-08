@@ -26,7 +26,7 @@ session.query(Measurement.date, Measurement.prcp).filter(extract('month',Measure
 
 session.query(Measurement.date, Measurement.prcp).filter(extract('month',Measurement.date)==12).all()
 
-[alt text](https://github.com/LaharikaSCU/surfs_up/blob/main/Precipitation_Statistics_Dec.png)
+![alt text](https://github.com/LaharikaSCU/surfs_up/blob/main/Precipitation_Statistics_Dec.png)
 
 
 ## **Summary** 
