@@ -6,19 +6,19 @@ Our analysis is regarding understanding the weather of the beautiful island Oahu
 
 ## **Results**
 
-### 1. In the months of June and December the minimum temperatures are 64 and 56 respectively.
+1. In the months of June and December the minimum temperatures are 64 and 56 respectively.
 
-### 2. The maximum temperatures in the months of June and December are 85 and 83 respectively.
+2. The maximum temperatures in the months of June and December are 85 and 83 respectively.
 
-### 3. From the maximum temperatures, minimum temperatures and other values in the summary of statistics we can deduce that in the months of June and December the average temperatures are between 70 to 75 which is fairly a good weather for Surfing as well as ice creams.
+3. From the maximum temperatures, minimum temperatures and other values in the summary of statistics we can deduce that in the months of June and December the average temperatures are between 70 to 75 which is fairly a good weather for Surfing as well as ice creams.
 
 ![alt text](https://github.com/[LaharikaSCU]/[surfs_up]/blob/[main]/Histogram_June_Temps.jpg?raw=true)
 
 ![alt text](https://github.com/[LaharikaSCU]/[surfs_up]/blob/[main]/Histogram_Dec_Temps.jpg?raw=true)
 
-### 4. From the data available we can also notice that precipitation is less in June compared to December. In turn, both June and December have less precipitation in comparison with all the months year round, July being the month with highest precipitation of 11.53.
+4. From the data available we can also notice that precipitation is less in June compared to December. In turn, both June and December have less precipitation in comparison with all the months year round, July being the month with highest precipitation of 11.53.
 
-### 5. Queries for precipitation statistics for the months of June and December:
+5. Queries for precipitation statistics for the months of June and December:
 
 session.query(Measurement.date, Measurement.prcp).filter(extract('month',Measurement.date)==6).all()
 
