@@ -22,6 +22,10 @@ Our analysis is regarding understanding the weather of the beautiful island Oahu
 
 session.query(Measurement.date, Measurement.prcp).filter(extract('month',Measurement.date)==6).all()
 
+![alt text](https://github.com/LaharikaSCU/surfs_up/blob/main/Precipitation_statistics_June.png)
+
+![alt text](https://github.com/LaharikaSCU/surfs_up/blob/main/Precipitation_Statistics_Dec.png)
+
 session.query(Measurement.date, Measurement.prcp).filter(extract('month',Measurement.date)==12).all()
 
 
