@@ -14,7 +14,7 @@ Our analysis is regarding understanding the weather of the beautiful island Oahu
 
 ![alt text](https://github.com/LaharikaSCU/surfs_up/blob/main/Histogram_Dec_Temps.png)
 
-![alt text](https://github.com/[LaharikaSCU]/[surfs_up]/blob/[main]/Histogram_Dec_Temps.jpg?raw=true)
+![alt text](https://github.com/LaharikaSCU/surfs_up/blob/main/Histogram_Dec_Temps.png)
 
 4. From the data available we can also notice that precipitation is less in June compared to December. In turn, both June and December have less precipitation in comparison with all the months year round, July being the month with highest precipitation of 11.53.
 
