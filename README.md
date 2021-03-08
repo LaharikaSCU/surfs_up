@@ -12,7 +12,7 @@ Our analysis is regarding understanding the weather of the beautiful island Oahu
 
 3. From the maximum temperatures, minimum temperatures and other values in the summary of statistics we can deduce that in the months of June and December the average temperatures are between 70 to 75 which is fairly a good weather for Surfing as well as ice creams.
 
-![alt text](https://github.com/[LaharikaSCU]/[surfs_up]/blob/[main]/Histogram_June_Temps.jpg?raw=true)
+![alt text](https://github.com/LaharikaSCU/surfs_up/blob/main/Histogram_Dec_Temps.png)
 
 ![alt text](https://github.com/[LaharikaSCU]/[surfs_up]/blob/[main]/Histogram_Dec_Temps.jpg?raw=true)
 
